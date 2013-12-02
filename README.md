@@ -1,5 +1,7 @@
-# Gistify
-### Easily create gists from the command line.
-###### This gist was created using Gistify.
+#Sukrit Mehra
+###Dummy Read me File
 
-Add me: [here](https://github.com/garciadanny)
+add me as a contributor:-
+> Sukrit Mehra a.k.a willpower*sm9* [sukrit mehra](https://github.com/sukritmehra)
+
+lol
