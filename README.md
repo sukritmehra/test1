@@ -1,7 +1,5 @@
-#Sukrit Mehra
-###Dummy Read me File
+# Gistify
+### Easily create gists from the command line.
+###### This gist was created using Gistify.
 
-add me as a contributor:-
-> Sukrit Mehra a.k.a willpower*sm9* [sukrit mehra](https://github.com/sukritmehra)
-
-lol
+Add me: [here](https://github.com/garciadanny)
