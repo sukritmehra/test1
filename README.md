@@ -1,5 +1,5 @@
-# Gistify
-### Easily create gists from the command line.
-###### This gist was created using Gistify.
+# Sukrit Mehra
+### PHP Developer and iOS Developer.
+###### a.k.a willi , a.k.a willpower*sm9*
 
-Add me: [here](https://github.com/garciadanny)
+Add me: [here](https://github.com/sukritmehra
